@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
-  before_action :set_post, exept:[:index, :create]
+  before_action :set_post, except:[:index, :create]
 
   def index
     @posts = Post.order('created_at DESC');
