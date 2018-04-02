@@ -3,7 +3,7 @@ class PostsController < ApplicationController
 
   def index
     @posts = Post.order('created_at DESC');
-    render json: {status: 'SUCCESS', message: 'Loaded posts', data: @posts}, status: :ok
+    render json: @posts, each_serializer: PostSerializer, status: :ok
   end
 
   def show
@@ -39,7 +39,7 @@ class PostsController < ApplicationController
   end
 
   def post_params
-    params.permit(:title, :downtitle, :body)
+    params.permit(:title, :subtitle, :body)
   end
 
 end

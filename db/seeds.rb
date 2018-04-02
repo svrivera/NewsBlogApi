@@ -9,7 +9,7 @@
 
 post = Post.create([
   {title: "Quiero desaparecer de Internet: cómo hacerlo paso a paso",
-  downtitle: "Puede llegar un momento en el que las redes sociales y otros servicios de internet dejen de sernos útiles.",
+  subtitle: "Puede llegar un momento en el que las redes sociales y otros servicios de internet dejen de sernos útiles.",
   body: "En el caso de que hayas tomado esa decisión y busques ayuda a la hora de marcharte de internet dejando los menores cabos sueltos en formas de cuentas de usuario sin usar y similar, vamos a explicarte cómo puedes darte de baja, cancelar o cerrar diferentes tipos de estas cuentas y/o perfiles de redes sociales y otra clase de servicios. Toma nota de nuestras instrucciones y consejos.
 
 No es fácil desaparecer de internet, pero hasta cierto punto puede conseguirse
@@ -20,13 +20,13 @@ En cualquier caso, si realmente quieres exiliarte de internet y no dejar rastro 
 "
   },
   {title: "El giro de ojos que pone en pie de guerra a Internet y activa la censura de las autoridades chinas",
-  downtitle: "En una ‘rueda de prensa’ orquestada, una periodista muestra gráficamente su hartazgo.",
+  subtitle: "En una ‘rueda de prensa’ orquestada, una periodista muestra gráficamente su hartazgo.",
   body: "En una democracia, una rueda de prensa en la que los periodistas no son libres de preguntar lo que deseen, ni es rueda de prensa, ni, en realidad, una democracia. Ponte en situación: las autoridades chinas ofrecen a los medios la posibilidad de plantear las pertinentes preguntas en uno de los órganos de poder del país, y una periodista pide el micro para exponer su pregunta ante las cámaras. Todo normal, salvo que la pregunta no es algo rápido, incisivo y resuelto a disolver alguna duda, sino que la propia pregunta esconde toda una alabanza a la gestión de las autoridades.
 
 En concreto, la consulta dura la friolera de 40 largos segundos en los que la periodista expone: Mi pregunta es, para mejorar el sistema de gestión de los activos estatales... teniendo en cuenta los cuarenta años de reforma y desarrollo... con el plan de nueva ruta de la seda del secretario general del Partido Comunista.... Las cámaras enfocan en directo a la periodista, pero también a otra colega situado a su lado que contempla, en este orden, con sorpresa, estupor y hartazgo, esta caricia en la espalda."
 },
 {title: "Cambridge Analytica: Quieren llamar a testificar a Mark Zuckerberg",
-downtitle: "La Cámara de los Comunes de Inglaterra quiere que el dueño de Facebook sea una de las personas que declare por el escándalo de Cambridge Analytica.",
+subtitle: "La Cámara de los Comunes de Inglaterra quiere que el dueño de Facebook sea una de las personas que declare por el escándalo de Cambridge Analytica.",
 body: "
 Luego de la denuncia hecha sobre la utilización y manipulación de más de 50 millones de perfiles de Facebook en el escándalo e Cambridge Analytica, la Cámara de los Comunes de Gran Bretaña a través de Damian Collins, presidente del comité selecto de cultura, medios y deporte, quiere llamar a testificar al dueño de la plataforma social, Mark Zuckerberg.
 
@@ -46,7 +46,7 @@ Ahora está claro que los datos han sido tomados de los usuarios de Facebook sin
 Se espera que también puedan llamar a testificar al CEO de Cambridge Analytica, Alexander Nix."
 },
 {title: "iMate, ¿el cargador definitivo para el universo Apple?",
-downtitle: "Integra todos los conectores posibles en un solo equipo.",
+subtitle: "Integra todos los conectores posibles en un solo equipo.",
 body: "
 Si eres 'maquero' a tope y respiras los productos de Apple por todos los poros de tu piel, sabes que la carga no siempre resulta y por un curioso y paradójico motivo: cada familia de producto cuenta con su propio conector y esto es realmente un incordio cuando sales de viaje. Los iOS llevan, como sabes, el conector propietario Lightning, el Apple Watch, otro tanto con el conector magnético de la casa, mientras que los MacBook de nueva generación apuestan -por fin- por el USB-C.
 
@@ -54,7 +54,7 @@ En definitiva, hay que salir de casa con tres tipos de conectores diferentes y a
 "
 },
 {title: "SEGA revela novedades sobre el futuro de Sonic en SXSW 2018",
-downtitle: "Incluyendo Sonic Mania Plus, una serie animada, un nuevo juego de carreras y hasta una colaboración con PUMA.",
+subtitle: "Incluyendo Sonic Mania Plus, una serie animada, un nuevo juego de carreras y hasta una colaboración con PUMA.",
 body: "
 
 Como se esperaba, SEGA ha aprovechado el marco de SXSW 2018 para revelar varias novedades sobre la franquicia Sonic the Hedgehog que pueden conocer a continuación:
@@ -66,7 +66,7 @@ Este título llegará en el verano del hemisferio norte en versiones para PlaySt
 "
 },
 {title: "Este robot basquetbolista creado por Toyota no será el próximo Jordan... pero por algo se empieza",
-downtitle: "Los robots quieren quitarnos nuestros trabajos, ok, pero que no nos quiten nuestros deportes y entretenimiento.",
+subtitle: "Los robots quieren quitarnos nuestros trabajos, ok, pero que no nos quiten nuestros deportes y entretenimiento.",
 body: "
 En los últimos años, hemos visto como los desarrollos basados en robótica siguen ganado terreno en diversas actividades, la mayoría de los casos automatizando tareas relativamente sencillas. Pero ahora parece que llegó el momento de que lleguen a nuevas disciplinas, como el basketball.
 
@@ -76,7 +76,7 @@ La Sociedad de Ingeniería de Toyota en Japón está presentado su nueva creaci�
 },
 
 {title: "China se convierte en 'Black Mirror': los ciudadanos con bajo Crédito Social no podrán usar aviones ni trenes",
-downtitle: "En octubre de 2017 nos enteramos que China estaba por implementar un sistema de puntaje ciudadano basado en la confiabilidad, el cual aplicaría para todos sus ciudadanos y de éste dependería que pudieran acceder a diversos servicios y créditos. ",
+subtitle: "En octubre de 2017 nos enteramos que China estaba por implementar un sistema de puntaje ciudadano basado en la confiabilidad, el cual aplicaría para todos sus ciudadanos y de éste dependería que pudieran acceder a diversos servicios y créditos. ",
 body: "
 El sistema ya está aquí, ha sido bautizado como  Crédito Social y en él se concentran todas las calificaciones crediticias, financieras, sociales, políticas y legales de cada uno de sus ciudadanos, y que sirve para delimitar e informar el nivel de confianza que posee una persona. Y en esta primera implementación, aquellos con bajo puntaje no tendrán acceso a aviones ni a trenes.
 La distopía es real
@@ -87,7 +87,7 @@ Esta restricción duraría al menos un año y después de este tiempo habría un
 },
 
 {title: "EE.UU acusa nuevamente a Rusia de hackear sus redes del gobierno",
-downtitle: "Desde antes del gobiero de Donald Trump se lleva acusando a Rusia de hackear redes importantes energéticas, comercial y demás.",
+subtitle: "Desde antes del gobiero de Donald Trump se lleva acusando a Rusia de hackear redes importantes energéticas, comercial y demás.",
 body: "
 
 Nuevamente las relaciones entre Estados Unidos y Rusia vuelven a estar pendiendo de un hilo. Y esta vez es por la misma razón que ha marcado los últimos años. El país norteamericano acusó a Rusia una vez más de hackear sus redes gubernamentales con el fin de realizar espionaje.
@@ -103,7 +103,7 @@ Esta alerta provee información de las acciones del gobierno ruso sobre las enti
 },
 
 {title: "Google Lens al fin hace su debut en iPhone",
-downtitle: "La realidad aumentada de Google Lens empieza a estar disponible para los usuarios de los móviles de Apple, aunque de a poco.",
+subtitle: "La realidad aumentada de Google Lens empieza a estar disponible para los usuarios de los móviles de Apple, aunque de a poco.",
 body: "
 
 La excelente herramienta de realidad aumentada Google Lens al fin empieza a estar disponible en iPhone y iPad.
@@ -120,7 +120,7 @@ Ah, un pequeño detalle: solo funcionará si tienes el iPhone en inglés. Sabemo
 },
 
 {title: "Nostalgia pura, este vinilo recupera el estilo metalizado del iPhone original en el iPhone X",
-downtitle: "Justamente por estas fechas el año pasado desde ColorWare nos sorprendieron con una increíble personalización del iPhone 7 Plus.",
+subtitle: "Justamente por estas fechas el año pasado desde ColorWare nos sorprendieron con una increíble personalización del iPhone 7 Plus.",
 body: "
 Justamente por estas fechas el año pasado desde ColorWare nos sorprendieron con una increíble personalización del iPhone 7 Plus. Por 1.899 euros convertían el teléfono en uno que parecía sacado de los '80 en un muy conseguido color beige. En esta ocasión, ColorWare ha puesto a la venta un vinilo para los iPhone actuales que los convierte en... ¿el iPhone original? Un gris metalizado con la parte inferior en negro que recuerda directamente al iPhone presentado hace 10 años.
 
@@ -130,7 +130,7 @@ A diferencia de las fundas, ColorWare ofrece una serie de vinilos que se pegan d
 },
 
 {title: "Oficinas de Amazon Japón son allanadas por organismo antimonopolio",
-downtitle: "Al parecer, otra vez la versión japonesa de Amazon estaría incurriendo en prácticas incorrectas.",
+subtitle: "Al parecer, otra vez la versión japonesa de Amazon estaría incurriendo en prácticas incorrectas.",
 body: "
 En Japón, Amazon está en problema: la Japanese Fair Trade Commission allanó sus oficinas centrales en medio de una investigación por prácticas monopólicas.
 
