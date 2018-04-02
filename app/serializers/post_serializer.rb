@@ -1,5 +1,5 @@
 class PostSerializer < ActiveModel::Serializer
-  attributes :id, :title, :subtitle, :body
+  attributes :id, :title, :subtitle, :body, :created_at
 
   def body
     if object.body.length > 500

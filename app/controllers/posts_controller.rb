@@ -7,28 +7,28 @@ class PostsController < ApplicationController
   end
 
   def show
-    render json: {status: 'SUCCESS', message: 'Loaded posts', data: @post}, status: :ok
+    render json: @post, status: :ok
   end
 
   def create
     @post = Post.new(post_params)
     if @post.save
-      render json: {status: 'SUCCESS', message: 'Loaded posts', data: @post}, status: :created
+      render json: @post, status: :created
     else
-      render json: {status: 'ERROR', message: 'Post not saved', data: @post.errors}, status: :unprocessable_entity
+      render json:  @post.errors, status: :unprocessable_entity
     end
   end
 
   def destroy
     @post.destroy
-    render json: {status: 'SUCCESS', message: 'Post deleted', data:@post}, status: :ok
+    render json: @post, status: :ok
   end
 
   def update
     if @post.update_attributes(post_params)
-      render json: {status: 'SUCCESS', message: 'Updated post', data: @post}, status: :ok
+      render json: @post, status: :ok
     else
-      render json: {status: 'ERROR', message: 'Post not updated', data: @post.errors}, status: :unprocessable_entity
+      render json: @post.errors, status: :unprocessable_entity
     end
   end
 
